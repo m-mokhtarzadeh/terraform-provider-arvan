@@ -1,6 +1,6 @@
-VERSION=0.6.1
+VERSION=0.6.4
 
-HOSTNAME=arvancloud.com
+HOSTNAME=arvancloud.ir
 NAMESPACE=terraform
 NAME=arvan
 BINARY=terraform-provider-$(NAME)
